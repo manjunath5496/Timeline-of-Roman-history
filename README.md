@@ -1,5 +1,4 @@
-<h2>Timeline of Roman history </h2>
-
+<h2> Timeline of Roman history</h2>
 
 <h2><span id="8th_and_7th_centuries_BC" class="mw-headline">8th and 7th centuries BC</span></h2>
 <table class="wikitable" width="100%&rdquo;">
@@ -985,7 +984,7 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
-<div class="toc"><strong>Centuries</strong>:&nbsp;<a href="https://en.wikipedia.org/wiki/Timeline_of_Roman_history#1st_century">1st</a>&nbsp;<strong>&middot;</strong><a href="https://en.wikipedia.org/wiki/Timeline_of_Roman_history#2nd_century">2nd</a>&nbsp;<strong>&middot;</strong><a href="https://en.wikipedia.org/wiki/Timeline_of_Roman_history#3rd_century">3rd</a>&nbsp;<strong>&middot;</strong><a href="https://en.wikipedia.org/wiki/Timeline_of_Roman_history#4th_century">4th</a>&nbsp;<strong>&middot;</strong><a href="https://en.wikipedia.org/wiki/Timeline_of_Roman_history#5th_century">5th</a>&nbsp;<strong>&middot;</strong><a href="https://en.wikipedia.org/wiki/Timeline_of_Roman_history#6th_century">6th</a>&nbsp;<strong>&middot;</strong><a href="https://en.wikipedia.org/wiki/Timeline_of_Roman_history#7th_century">7th</a>&nbsp;<strong>&middot;</strong><a href="https://en.wikipedia.org/wiki/Timeline_of_Roman_history#8th_century">8th</a>&nbsp;<strong>&middot;</strong><a href="https://en.wikipedia.org/wiki/Timeline_of_Roman_history#9th_century">9th</a>&nbsp;<strong>&middot;</strong><a href="https://en.wikipedia.org/wiki/Timeline_of_Roman_history#10th_century">10th</a>&nbsp;<strong>&middot;</strong><a href="https://en.wikipedia.org/wiki/Timeline_of_Roman_history#11th_century">11th</a>&nbsp;<strong>&middot;</strong><a href="https://en.wikipedia.org/wiki/Timeline_of_Roman_history#12th_century">12th</a>&nbsp;<strong>&middot;</strong><a href="https://en.wikipedia.org/wiki/Timeline_of_Roman_history#13th_century">13th</a>&nbsp;<strong>&middot;</strong><a href="https://en.wikipedia.org/wiki/Timeline_of_Roman_history#14th_century">14th</a>&nbsp;<strong>&middot;</strong><a href="https://en.wikipedia.org/wiki/Timeline_of_Roman_history#15th_century">15th</a></div>
+<div class="toc"><strong>Centuries</strong>:&nbsp;<a href="#1st_century">1st</a>&nbsp;<strong>&middot;</strong><a href="#2nd_century">2nd</a>&nbsp;<strong>&middot;</strong><a href="#3rd_century">3rd</a>&nbsp;<strong>&middot;</strong><a href="#4th_century">4th</a>&nbsp;<strong>&middot;</strong><a href="#5th_century">5th</a>&nbsp;<strong>&middot;</strong><a href="#6th_century">6th</a>&nbsp;<strong>&middot;</strong><a href="#7th_century">7th</a>&nbsp;<strong>&middot;</strong><a href="#8th_century">8th</a>&nbsp;<strong>&middot;</strong><a href="#9th_century">9th</a>&nbsp;<strong>&middot;</strong><a href="#10th_century">10th</a>&nbsp;<strong>&middot;</strong><a href="#11th_century">11th</a>&nbsp;<strong>&middot;</strong><a href="#12th_century">12th</a>&nbsp;<strong>&middot;</strong><a href="#13th_century">13th</a>&nbsp;<strong>&middot;</strong><a href="#14th_century">14th</a>&nbsp;<strong>&middot;</strong><a href="#15th_century">15th</a></div>
 <h2><span id="1st_century" class="mw-headline">1st century</span></h2>
 <table class="wikitable" width="0%">
 <tbody>
